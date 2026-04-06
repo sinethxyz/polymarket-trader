@@ -4,3 +4,6 @@ polymarket:
   max_retries: 3
   page_size: 100
   request_delay_seconds: 0.2
+
+store:
+  db_path: "data/markets.db"

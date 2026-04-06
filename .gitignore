@@ -7,3 +7,5 @@ build/
 *.egg
 .env
 secrets.env
+*.db
+/data/
